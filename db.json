@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "details": "IPhone 14 pro",
+      "price": "110000",
+      "quantity": "IPhone ",
+      "category": "iPhone",
+      "sale": "10",
+      "urlImg": "https://www.apple.com/v/iphone-14-pro/c/images/meta/iphone-14-pro_overview__e414c54gtu6a_og.png",
+      "id": 1
+    },
+    {
+      "details": "iPhone 14",
+      "price": "100000",
+      "quantity": "IPhone",
+      "category": "IPhone",
+      "sale": "5",
+      "urlImg": "https://www.dpreview.com/files/p/articles/6110937480/7F3F3C54-E764-4430-86D2-87AEF029CAA2.jpeg",
+      "id": 2
+    },
+    {
+      "details": "IPhone 14",
+      "price": "100000",
+      "quantity": "IPhone",
+      "category": "IPhone",
+      "sale": "15",
+      "urlImg": "https://asset.kompas.com/crops/9fjF5pzqYgZzsOZopAbRlqsEamM=/0x0:3464x2309/750x500/data/photo/2022/09/09/631ae3f796604.jpg",
+      "id": 3
+    },
+    {
+      "details": "Apple Watch",
+      "price": "30000",
+      "quantity": "Apple",
+      "category": "apple",
+      "sale": "2",
+      "urlImg": "https://www.apple.com/newsroom/images/product/watch/standard/Apple-Watch-Ultra-3up-hero-220907_Full-Bleed-Image.jpg.large.jpg",
+      "id": 4
+    },
+    {
+      "details": "Air Pods 2",
+      "price": "15000",
+      "quantity": "Apple",
+      "category": "Apple",
+      "sale": "0",
+      "urlImg": "https://www.apple.com/v/airpods-2nd-generation/d/images/meta/og__bz8g5g9sbyoi_overview.png",
+      "id": 5
+    },
+    {
+      "details": "MacBook Pro",
+      "price": "110000",
+      "quantity": "Apple",
+      "category": "Apple",
+      "sale": "20",
+      "urlImg": "https://softech.kg/image/cache/f2f9d93c77c74eff955d8e33aba4f7f5.jpg",
+      "id": 6
+    },
+    {
+      "details": "AirTag",
+      "price": "3000",
+      "quantity": "Apple",
+      "category": "Apple",
+      "sale": "0",
+      "urlImg": "https://softech.kg/image/cache/78f32ca91866cd0a64e875990e93fa61.jpg",
+      "id": 7
+    },
+    {
+      "details": "Polishing Cloth",
+      "price": "1600",
+      "quantity": "Apple",
+      "category": "Apple",
+      "sale": "0",
+      "urlImg": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MM6F3_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1632956483000",
+      "id": 8
+    },
+    {
+      "details": "iPad",
+      "price": "40000",
+      "quantity": "Apple",
+      "category": "Apple",
+      "sale": "10",
+      "urlImg": "https://softech.kg/image/cache/e17d20fb61efe08267602ae7483f36bc.png",
+      "id": 9
+    }
+  ]
+}
